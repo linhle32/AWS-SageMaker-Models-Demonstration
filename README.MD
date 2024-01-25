@@ -6,3 +6,5 @@ This repository includes some simple examples on how to adapt AWS SageMaker mode
 - Forecasting with `DeepAR`
 - Anomaly detection with `SKLearn` and `RandomCutForest`
 - Automodel using `AutoPilot`
+
+All examples, except for `AutoPilot`, can be run using a free-tier AWS account.
